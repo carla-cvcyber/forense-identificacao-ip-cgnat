@@ -9,12 +9,13 @@ Inclui:
 - 🔍 Fluxo pericial para validação de identidade digital via IP.
 - 🏛️ Modelos de relatórios periciais e petições judiciais.
 - ⚙️ Fundamentos técnicos sobre CGNAT e logs de rede.
+- 🧪 **Estudo de caso aprofundado sobre falhas em identificação digital (IP, geolocalização e biometria).**
 
 ---
 
 ## 🗂️ Conteúdo
 
-- `/docs` – Documentação técnica, fluxo pericial e jurisprudência.
+- `/docs` – Documentação técnica, fluxo pericial e jurisprudência, **incluindo um estudo de caso detalhado sobre validação de identidade digital.**
 - `/templates` – Modelos de relatórios e petições.
 - `/diagrams` – Diagramas explicativos (adicione aqui seus próprios arquivos).
 - `LICENSE` – Licença do repositório.
@@ -28,21 +29,6 @@ Endereço IP **não é suficiente para identificar uma pessoa** em ambientes CGN
 - ✅ Porta lógica de origem
 - ✅ Data e horário (timestamp)
 - ✅ Logs do provedor de conexão (NAT log)
-
----
-
-## 🏛️ Jurisprudência incluída
-
-- 🇧🇷 Brasil: STJ (2019) e TJ-SP (2017).
-- 🇦🇺 Austrália: Dallas Buyers Club v iiNet (2015).
-- 🇩🇪 Alemanha: LG Köln (2014).
-- 🇯🇵 Japão: Caso de cybercrime (2019).
-- 🇺🇸 EUA: FBI - Operação Pacifier e outros casos.
-
----
-
-## 📄 Licença
-
-Este repositório está licenciado sob a licença MIT.
+- **E, para outras provas digitais como geolocalização e biometria, é fundamental a validação da cadeia de custódia, liveness detection (PAD) e conformidade com padrões forenses.**
 
 ---
